@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijaybhakser
+- 👋 Hi, I’m @Vijaybhasker
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning data stuff
 - 💞️ I’m looking to collaborate on ...
